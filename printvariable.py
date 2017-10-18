@@ -1,0 +1,13 @@
+#输出不同类型变量的值
+n=123
+print('a=',n)
+f=456.789
+print('f=',f)
+s1='Hello,word'
+print('s1=',s1)
+s2='Hello,\'Adam\''
+print('s2=',s2)
+s3=r'Hello,"Bart"'
+print('s3=',s3)
+s4=r'''Hello,Lisa!'''
+print('s4=',s4)
